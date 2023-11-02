@@ -3,7 +3,7 @@ Respositório com as soluções desenvolvidas pela equipe na maratona de program
 
 Integrantes da Equipe
 
-Lucas Baldasso
-Luiz Henrique Edling
-Chiara Leonardi
-Jonas Richard
+- Lucas Baldasso
+- Luiz Henrique Edling
+- Chiara Leonardi
+- Jonas Richard
